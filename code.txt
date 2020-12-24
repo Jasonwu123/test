@@ -1,0 +1,11 @@
+this is the first line
+this is the second line
+this is the third line
+this is the forth line
+<<<<<<< Updated upstream
+=======
+add one line
+one more line in master
+add one more line
+bug 1
+>>>>>>> Stashed changes
